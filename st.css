@@ -1,0 +1,67 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.navbar{
+    background-color: #0f1111;
+    height: 65px;
+}
+#logo{
+    color: rgb(210, 141, 15);
+    font-size: 25px;
+}
+a{
+    margin-left: 150px;
+    color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.container1{
+    height: 150px;
+    width: 150px;
+    margin: 25px 500px 25px 500px;
+    background-color: red;
+    border-radius: 50%;
+    
+}
+.container2{
+    height: 150px;
+    width: 150px;
+    margin: 25px 500px 25px 500px;
+    background-color: yellow;
+    border-radius: 50%;
+    
+}
+.container3{
+    height: 150px;
+    width: 150px;
+    margin: 25px 500px 25px 500px;
+    background-color: green;
+    border-radius: 50%;
+    
+}
